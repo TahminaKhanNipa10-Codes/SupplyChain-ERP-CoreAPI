@@ -195,7 +195,7 @@ SupplyChain-ERP-CoreAPI/
 
 <p align="center">
   <b>📁 VS Code Folder Structure</b><br/>
-  <img src="screenshots/folder-structure.jpeg" width="95%">
+  <img src="screenshots/folder-structures.jpeg" width="95%">
 </p>
 
 ---
